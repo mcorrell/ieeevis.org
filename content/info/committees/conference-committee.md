@@ -61,7 +61,7 @@ permalink: /info/committees/conference-committee
 | **Panels Chairs** | |
 | Michael Correll | *Tableau Software* |
 | Yunhai Wang | *Shandong Unversity* |
-| Hsiang-Yun Wu | *TU Wien* |
+| Hsiang-Yun Wu | *St. Pölten University of Applied Sciences* |
 |---
 | **Tutorial Chairs** | |
 | Stefan Bruckner | *University of Bergen* |
